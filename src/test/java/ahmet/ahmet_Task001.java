@@ -6,5 +6,7 @@ public class ahmet_Task001 {
 
     // hello abdusadık abi
     // abdusadık abi hello again
+    // also hello mustafa abi
+    //What you mean?
 
 }
