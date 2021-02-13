@@ -1,6 +1,5 @@
 public class Conflict {
     // THIS IS WHAT MASTER SAYS!!!
-    // MASTER SAID THIS!!
+    // THIS IS WHAT WORK 3 SAYS
     // GOOD NEWS
 }
-// MASTER SAID SOMETHING ELSE
